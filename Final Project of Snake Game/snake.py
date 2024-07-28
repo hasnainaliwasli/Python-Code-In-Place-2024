@@ -3,7 +3,7 @@ import random
 
 # Initialize the main window
 root = tk.Tk()
-root.title("Snake Game by Hasnain")
+root.title("Snake Game by Hasnain Ali")
 root.resizable(False, False)
 
 # Define constants
